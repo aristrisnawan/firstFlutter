@@ -47,6 +47,10 @@ flutter:
     - images/nm.jpg
     - images/132969.jpg
     - images/poster.jpg
+    - images/cake.jfif
+    - images/pancake.jfif
+    - images/cake1.jfif
+    - images/cake2.jfif
 
   fonts:
     - family: Oswald
